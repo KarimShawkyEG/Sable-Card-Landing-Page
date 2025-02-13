@@ -9,7 +9,6 @@ Welcome to the **Sable Card Landing Page** repository! This project is a sleek a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -72,11 +71,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push your branch and submit a pull request.
 
 Please ensure your code follows the existing style and includes appropriate comments.
-
----
-
-## License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
