@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+* {
+  font-family: Outfit;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.infinite-scroll {
+  animation: infinite-scroll 10s linear infinite
+}
+
+.scroll-up-animation {
+  animation: scroll-up 5s linear infinite;
+}
+
+.custom-bg {
+  background-color: rgba(235, 235, 241, 0.93);
+}
+
+@keyframes infinite-scroll {
+
+  from {
+    transform: translateX(100%)
+  }
+
+  to {
+    transform: translateX(0%)
+  }
+
+  to {
+    transform: translateX(-100%)
+  }
+}
